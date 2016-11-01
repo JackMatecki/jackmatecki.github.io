@@ -1,0 +1,77 @@
+hr{
+	display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+a{
+	color: #663399;
+	text-align: center;
+	text-decoration: none;
+	margin-bottom: 5px;
+	font-size: 25px;
+
+}
+a:hover{
+	color: #ccff00 ;
+}
+.section_header{
+	font-size: 25px;
+	font-style: bold;
+	padding: 0px;
+	margin-top: 15px;
+	margin-bottom: -10px;
+	margin-left: 30px;
+
+}
+#address{
+	text-align: center;
+	margin-bottom: -10px;
+	margin-top:-5;
+	font-size: 25px
+}
+#name{
+	text-align: center;
+	font-size: 45px;
+	text-transform: bold;
+	margin-bottom: -20px;
+	margin-top: -20px;
+
+}
+#phone{
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: -10px;
+	margin-top: 10px;
+}
+#uni{
+	margin-left: 30px;
+}
+#major{
+	margin-left: 30px;
+}
+.business {
+	margin-top: 12px;
+	margin-bottom: 2px;
+	font-size: 1rem;
+	font-family: serif;
+	margin-left: 30px;
+	margin-right: 225px;
+	display: inline-block;
+}
+.job_title {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-size: 1rem;
+	text-decoration: underline;
+	margin-left: 30px;
+}
+.work_date { 
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-size: 1rem;
+	margin-left: 30px;
+	display: inline-block;
+}
