@@ -1,1 +1,0 @@
-# jackmatecki.github.io
